@@ -1,0 +1,14 @@
+p.uppercase {
+    text-transform: uppercase;
+    color: brown;
+  }
+  
+  p.lowercase {
+    text-transform: lowercase;
+    color: darkorchid;
+  }
+  
+  p.capitalize {
+    text-transform: capitalize;
+    color: chocolate;
+  }
